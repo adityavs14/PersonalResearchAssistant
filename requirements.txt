@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-deepseek
+langchain-community
+chromadb
+pysqlite3-binary
+pypdf
